@@ -1,0 +1,50 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+.app { min-height: 100vh; background: linear-gradient(135deg, #046A38 0%, #FF0000 100%); font-family: 'Segoe UI', Arial, sans-serif; color: #333; }
+.header { text-align: center; padding: 30px 20px; color: white; }
+.header h1 { font-size: 2.5rem; margin-bottom: 8px; }
+.header h1 span { filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3)); }
+.container { max-width: 900px; margin: 0 auto; padding: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.card { background: white; padding: 30px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
+.card h2 { color: #046A38; margin-bottom: 20px; font-size: 1.5rem; }
+.input-group { margin-bottom: 20px; }
+.input-group label { display: block; margin-bottom: 8px; font-weight: 600; color: #555; }
+.input-group input { width: 100%; padding: 12px; font-size: 16px; border: 2px solid #ddd; border-radius: 8px; transition: border 0.3s; }
+.input-group input:focus { outline: none; border-color: #046A38; }
+.checkbox-group { display: flex; align-items: center; gap: 10px; margin-top: 20px; }
+.checkbox-group input { width: 20px; height: 20px; }
+.result-row { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 1px solid #eee; font-size: 1.1rem; }
+.desconto { color: #d32f2f; }
+.total { border-top: 3px solid #046A38; border-bottom: none; margin-top: 10px; padding-top: 15px; font-size: 1.4rem; font-weight: bold; color: #046A38; }
+.anual { margin-top: 20px; padding: 15px; background: #f0f8f4; border-radius: 8px; text-align: center; color: #046A38; font-weight: 600; }
+footer { text-align: center; padding: 30px; color: white; opacity: 0.9; }
+.social-links { margin-top: 15px; display: flex; justify-content: center; gap: 20px; }
+.social-links a { color: white; text-decoration: none; font-weight: 600; padding: 8px 16px; border: 2px solid white; border-radius: 8px; transition: 0.3s; }
+.social-links a:hover { background: white; color: #046A38; }
+@media (max-width: 768px) { .container { grid-template-columns: 1fr; } .header h1 { font-size: 2rem; } }.social-links a {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.social-links a {
+  color: #046A38;
+  background: white;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 10px 18px;
+  border-radius: 8px;
+  transition: 0.3s;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+.social-links a:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.25);
+}
+
+.social-links a svg {
+  flex-shrink: 0;
+}
