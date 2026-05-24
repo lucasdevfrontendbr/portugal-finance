@@ -1,20 +1,6 @@
-# 🇵🇹 Portugal Finance | Calculadora Salário Líquido 2026
+**Objetivo Profissional:**
+Busco minha primeira oportunidade como Desenvolvedor Frontend Júnior/Estágio Remoto para Portugal. Tenho disponibilidade imediata e português nativo.
 
-**[🚀 ACESSAR O SITE AO VIVO](https://portugal-finance.vercel.app)**
+**Comunicação:** Me comunico bem em português. Em inglês, consigo me virar no básico do dia a dia com apoio de ferramentas como Google Tradutor. Não tenho leitura fluente de documentação técnica ainda, mas estou estudando diariamente para evoluir. Não prometo o que não entrego.
 
-Calculadora de salário líquido 100% atualizada com tabelas de IRS + Segurança Social de Portugal para 2026. Interface Cyberpunk feita com JavaScript puro.
-
-### ✨ Funcionalidades
-- Cálculo automático de IRS por escalões 2026
-- Desconto Segurança Social 11%
-- Suporte para dependentes
-- UI Cyberpunk responsiva
-
-### 🛠️ Tech Stack
-`HTML5` `CSS3` `JavaScript` `Vercel`
-
-### 📸 Preview
-[preview](https://user-images.githubusercontent.com/123456/abc123.png)
-
----
-Desenvolvido por [Lucas Lima](https://linkedin.com/in/lucas-lima-6b97422b9)
+Muita vontade de aprender com um time sênior e agregar com código limpo e comprometimento.
