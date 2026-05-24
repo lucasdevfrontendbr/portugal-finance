@@ -64,7 +64,7 @@ Muita vontade de aprender com um time sênior e agregar com código limpo e comp
 ### 📞 Contato
 
 **Lucas Lima** | Desenvolvedor Frontend
-- LinkedIn: [linkedin.com/in/lucasdevfrontendbr](https://linkedin.com/in/lucasdevfrontendbr)
+- LinkedIn: [linkedin.com/in/lucasdevfrontendbr](https://www.linkedin.com/in/lucas-lima-6b97422b9/)
 - GitHub: [@lucasdevfrontendbr](https://github.com/lucasdevfrontendbr)
 
 ---
