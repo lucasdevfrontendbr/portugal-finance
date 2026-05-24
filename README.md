@@ -3,8 +3,7 @@
 **Calculadora de Salário Líquido PT 2026 com UI Cyberpunk**
 
 ### 🔗 **Demo ao vivo:** https://portugal-finance.vercel.app
-
-![Preview](./print.png)
+   ![Preview](./public/print.png)
 
 ### 🛠️ **Stack:**
 - **Frontend:** React + Vite, HTML5, CSS3, JavaScript
