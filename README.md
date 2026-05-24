@@ -1,26 +1,20 @@
-# ⚡ PORTUGAL FINANCE // SISTEMA SDR TECH V2.0
+# 🇵🇹 Portugal Finance | Calculadora Salário Líquido 2026
 
-**Calculadora de Salário Líquido PT 2026 com UI Cyberpunk**
+**[🚀 ACESSAR O SITE AO VIVO](https://portugal-finance.vercel.app)**
 
-### 🔗 **Demo ao vivo:** https://portugal-finance.vercel.app
-   ![Preview](./public/print.png)
+Calculadora de salário líquido 100% atualizada com tabelas de IRS + Segurança Social de Portugal para 2026. Interface Cyberpunk feita com JavaScript puro.
 
-### 🛠️ **Stack:**
-- **Frontend:** React + Vite, HTML5, CSS3, JavaScript
-- **Design:** Cyberpunk UI, Neon Effects, Grid Layout  
-- **Deploy:** Vercel
-- **Lógica:** Seg. Social 11% + Tabelas IRS PT 2026 + Dedução por Dependentes
+### ✨ Funcionalidades
+- Cálculo automático de IRS por escalões 2026
+- Desconto Segurança Social 11%
+- Suporte para dependentes
+- UI Cyberpunk responsiva
 
-### ✨ **Features:**
-1. Cálculo em tempo real de salário líquido
-2. Breakdown completo: Bruto → Seg. Social → IRS → Líquido
-3. Interface `.EXE` estilo terminal cyberpunk  
-4. 100% Responsivo e otimizado
+### 🛠️ Tech Stack
+`HTML5` `CSS3` `JavaScript` `Vercel`
 
-### 💡 **Por que esse projeto?**
-Parte do meu Pipeline Bot B2B que gerou 86 reuniões/mês. Prova skill em Frontend, UX/UI e implementação de regras de negócio complexas de Portugal.
+### 📸 Preview
+[COLE UM PRINT DO SEU APP AQUI]
 
-### 🧑‍💻 **Lucas Lima - Dev Junior**
-[LinkedIn](https://linkedin.com/in/lucas-lima-6b97422b9) | [WhatsApp](https://wa.me/5521988862013) | [GitHub](https://github.com/lucasdevfrontendbr)
-
-**Gostou? Me chama pra uma call. Eu automatizo o pipeline da sua empresa também.**
+---
+Desenvolvido por [Lucas Lima](https://linkedin.com/in/lucas-lima-6b97422b9)
