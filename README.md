@@ -14,7 +14,7 @@ Calculadora de salário líquido 100% atualizada com tabelas de IRS + Segurança
 `HTML5` `CSS3` `JavaScript` `Vercel`
 
 ### 📸 Preview
-[COLE UM PRINT DO SEU APP AQUI]
+[preview](https://user-images.githubusercontent.com/123456/abc123.png)
 
 ---
 Desenvolvido por [Lucas Lima](https://linkedin.com/in/lucas-lima-6b97422b9)
