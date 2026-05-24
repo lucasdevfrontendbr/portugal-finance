@@ -26,7 +26,7 @@ Interface Cyberpunk feita com JavaScript puro.
 
 ### 📸 Preview
 
-![preview](COLE-A-URL-DO-TEU-PRINT-AQUI)
+![preview](https://www.linkedin.com/in/lucas-lima-6b97422b9/)
 
 ---
 
