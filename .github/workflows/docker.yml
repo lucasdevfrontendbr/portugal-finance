@@ -1,9 +1,4 @@
-name: Docker Build CI
-on: [push]
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Build Docker image
-        run: docker build -t portugal-finance.
+FROM nginx:alpine
+COPY . /usr/share/nginx/html
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]
